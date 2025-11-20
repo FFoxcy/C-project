@@ -1,2 +1,0 @@
-# FFoxcy
-# c++ project
